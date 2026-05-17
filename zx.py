@@ -266,4 +266,4 @@ app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, text_handler))
 
 if __name__ == "__main__":
     print("BOT STARTED")
-    app.run_polling(drop_pending_updates=True))
+    app.run_polling(drop_pending_updates=True)

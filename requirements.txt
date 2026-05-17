@@ -1,5 +1,2 @@
 python-telegram-bot==20.7
 requests==2.32.3
-firebase-admin==6.5.0
-urllib3==2.2.2
-certifi==2024.7.4
